@@ -1,0 +1,11 @@
+body{
+    background: purple;
+    text-align: center;
+}
+
+#time{
+    background-color: black;
+    color:wheat;
+    padding: 1em;
+    font-size: 3em;
+}
